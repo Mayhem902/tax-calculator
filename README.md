@@ -6,6 +6,3 @@
 - Uses progressive tax bracket system
 - Clean, reusable, and well-commented code
 
-## How to Run
-```bash
-python tax_calculator.py
